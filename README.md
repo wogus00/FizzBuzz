@@ -360,7 +360,7 @@ See the Week 1 module on Quercus for how to get started on the homework based on
 ## Learning Java
 As noted in the Week 1 module, you should start working through the Java readings this week. This will more formally
 cover a lot of the syntax which you just saw for possibly the first time during the lab.
-
+kk
 ## Further practice
 
 [LeetCode](https://leetcode.com) is a very popular source of practice problems.
